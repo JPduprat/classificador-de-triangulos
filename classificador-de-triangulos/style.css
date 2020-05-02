@@ -1,0 +1,11 @@
+h1 {
+    margin: auto;
+    position: relative;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
